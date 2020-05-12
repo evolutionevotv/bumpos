@@ -1,8 +1,14 @@
 # bumpOS
-bumpOS is an Experimental HTML Web OS (or Online Desktop Environment) Which is in a very early stage.
+bumpOS is an Template for people, that want to Create a "Virtual Web Desktop Environment" (Web OE for short) faster.
 
-[Test it out](https://evolutionevotv.github.io/bumpos/)
+This Template features:
+- A start menu System
+- A Built-in customizable Notepad Application
+- Flexible & Easy-to-read Code
+- Application Window System
+
+[Template Demo](https://evolutionevotv.github.io/bumpos/)
 
 [Developer's YouTube Page](https://www.youtube.com/channel/UC_hLPSpcihJGQ9pvzwsATzw)
 
-Developed by Soup & EvoLution
+Created by Soup & EvoLution
